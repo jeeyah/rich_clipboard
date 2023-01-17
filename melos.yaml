@@ -1,5 +1,5 @@
 name: rich_clipboard
-repository: https://github.com/BringingFire/rich_clipboard
+repository: https://github.com/jeeyah/rich_clipboard
 
 packages:
   - rich_clipboard/pubspec.yaml
